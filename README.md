@@ -10,10 +10,30 @@ The project's data is converted to two CSV (comma-separated value) files mainly 
 
 ## Projects
 
-| Project Name | Location | Status | Use Configuration | Design Duration | Gross Floor Area (m2) | Number of Storeys | Project Description |
-|--------------|----------|--------|-------------------|-----------------|----------------------|-------------------|-------------------|
-| **SPOT** | Southeast Amsterdam | Construction | 390 apartment units | 2017 - 2021 | 40,000 | 35 | It contains varying towers and lower building blocks. |
-| **Lumiere** | Center of Rotterdam | Design | 263 apartments, hotel with 160 rooms, shopping, working, and recreation spaces | 2018 - present | 50,000 | 46 | It promotes the high-rise vision of the city and involves a tower among lower level building volumes. |
-| **The Stack** | North Amsterdam | Built | 120 apartments with a communal garden in between | 2017 - 2019 | 11,400 | 9 | It consists of two separate buildings and Apartment units are positioned such a way that they are oriented towards the sun as much as possible. |
-| **Matchbox** | Strijp-S area of Eindhoven | Construction | offices on the ground floor and apartment units on upper levels surrounding an inner courtyard | 2018 - 2023 | 4,800 | 7 | wooden construction, usage of bio-based materials, integrated solar panels, rain water collection system, and natural cross ventilation contribute to the sustainable design aspect of the project. |
+### SPOT
+- **Location**: Southeast Amsterdam
+- **Status**: Construction (2017 - 2021)  
+- **Configuration**: 390 apartment units
+- **Scale**: 40,000 m² | 35 storeys
+- **Description**: Varying towers and lower building blocks
 
+### Lumiere  
+- **Location**: Center of Rotterdam
+- **Status**: Design (2018 - present)
+- **Configuration**: 263 apartments, hotel with 160 rooms, shopping, working, and recreation spaces
+- **Scale**: 50,000 m² | 46 storeys  
+- **Description**: Promotes the high-rise vision of the city and involves a tower among lower level building volumes
+
+### The Stack
+- **Location**: North Amsterdam  
+- **Status**: Built (2017 - 2019)
+- **Configuration**: 120 apartments with communal garden in between
+- **Scale**: 11,400 m² | 9 storeys
+- **Description**: Two separate buildings with apartment units positioned for optimal solar orientation
+
+### Matchbox
+- **Location**: Strijp-S area of Eindhoven
+- **Status**: Construction (2018 - 2023)
+- **Configuration**: Offices on ground floor and apartment units on upper levels surrounding an inner courtyard  
+- **Scale**: 4,800 m² | 7 storeys
+- **Description**: Wooden construction with bio-based materials, integrated solar panels, rainwater collection system, and natural cross ventilation for sustainable design
