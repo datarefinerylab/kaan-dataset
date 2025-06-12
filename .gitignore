@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data
+*.tmp
+*.log
+
+# System
+.DS_Store
+Thumbs.db
